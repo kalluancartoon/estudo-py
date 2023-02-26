@@ -18,7 +18,7 @@ print(0.0,  -1.12) #float
 
 
 
-# A função type moatr o tipo que o Python inferiu ao valor.
+# A função type mostra o tipo que o Python inferiu ao valor.
 print(type('Kalluan'))
 print(type(0))
 print(type(1.1), type(-1.1), type(0.0))
