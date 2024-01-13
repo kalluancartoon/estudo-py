@@ -1,5 +1,6 @@
 # Aula 3
 """
+Docstring é a documentação.
 Python = Linguagem de programação
 Tipo de tipagem = Dinâmico / Forte
 str -> string -> texto
