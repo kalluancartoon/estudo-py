@@ -4,8 +4,8 @@
 #Construção das variáveis
 nome = 'Kalluan'
 sobrenome = 'Cartoon'
-idade = 2023 - 1995
-ano_nascimento = 2023 - idade
+idade = 2025 - 1995
+ano_nascimento = 2025 - idade
 maior_de_idade = idade >= 18
 altura_metros = 1.70
 
